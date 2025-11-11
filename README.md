@@ -1,2 +1,3 @@
 # LYRICS SYNC 
-- Using the LRCLIB Api to search the song available , feel free to fork it or copy it to make a better version you want (If you want to thank just link this rep into your README).
+- This project uses the LRCLIB API to search and retrieve song lyrics. You’re welcome to fork or reuse the code to build your own version.
+- A link back to this repo as credit is always appreciated.
